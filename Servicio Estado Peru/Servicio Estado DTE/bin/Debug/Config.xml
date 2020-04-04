@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuracion>
+	<ServidorSAP>
+		<Servidor>DESKTOP-QKQS27</Servidor>
+		<ServLicencia>DESKTOP-QKQS27:30000</ServLicencia>
+		<UsuarioSAP>manager</UsuarioSAP>
+		<PasswordSAP>12345</PasswordSAP>
+		<SQL>2014</SQL>
+		<UsuarioSQL>sa</UsuarioSQL>
+		<PasswordSQL>b1admin</PasswordSQL>
+	</ServidorSAP>
+	<BasesSAP>
+		<BaseSAP>VisualK_CL</BaseSAP>
+	</BasesSAP>
+	<SistemaSAP>
+		<SAP>SQL</SAP>
+	</SistemaSAP>
+	<EasyDoc>
+		<ProcesaGetEstado>Si</ProcesaGetEstado>
+		<OPGetEstado>'http://portalpe.easydoc.cl/GetEstado.ashx'</OPGetEstado>
+	</EasyDoc>
+	<Mail>
+		<EnviarMail>No</EnviarMail>
+		<HoraEnvio1>15:07</HoraEnvio1>
+		<HoraEnvio2></HoraEnvio2>
+		<MailFrom>pel@gmail.com</MailFrom>
+		<MailSmtpHost>smtp.gmail.com</MailSmtpHost>
+		<MailUser>pel@gmail.com</MailUser>
+		<MailPass>xxx</MailPass>
+		<Puerto>587</Puerto>
+    </Mail>
+</Configuracion>

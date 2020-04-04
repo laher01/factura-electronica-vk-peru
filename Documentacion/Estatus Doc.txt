@@ -1,0 +1,15 @@
+EC --> Enviado Correctamente
+EE --> Enviado con Error
+RR --> Aceptado
+RZ --> Rechazado
+DB --> Dado de Baja
+
+U_EstadoFE
+
+A --> Aceptado
+R --> Rechazado
+P --> Pendiente
+N --> No enviando
+E --> Aceptado con Reparo
+B --> Dado Baja 
+

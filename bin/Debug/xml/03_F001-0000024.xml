@@ -1,0 +1,65 @@
+<DocumentoElectronico>
+  <TipoDocumento>03</TipoDocumento>
+  <Emisor>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>***GENERAL PRUEBAS***</NombreLegal>
+    <NombreComercial>LIMA</NombreComercial>
+    <Direccion>DIRECCION DE LA EMPRESA PRUEBAS 12345</Direccion>
+    <Urbanizacion>-</Urbanizacion>
+    <Departamento>
+    </Departamento>
+    <Provincia>LIMA</Provincia>
+    <Distrito>LIMA</Distrito>
+  </Emisor>
+  <CamposExtras>
+    <CorreoReceptor>acabello@visuald.cl</CorreoReceptor>
+  </CamposExtras>
+  <Receptor>
+    <NroDocumento>20601444021</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>CLIENTE 1</NombreLegal>
+  </Receptor>
+  <IdDocumento>F001-0000024</IdDocumento>
+  <FechaEmision>2017-11-16</FechaEmision>
+  <Moneda>PEN</Moneda>
+  <Gravadas>118.8</Gravadas>
+  <Gratuitas>0</Gratuitas>
+  <Inafectas>0</Inafectas>
+  <Exoneradas>0</Exoneradas>
+  <DescuentoGlobal>0</DescuentoGlobal>
+  <TotalVenta>778.8</TotalVenta>
+  <TotalIgv>178.8</TotalIgv>
+  <TotalIsc>0</TotalIsc>
+  <TotalOtrosTributos>0</TotalOtrosTributos>
+  <MontoEnLetras>SON SETECIENTOS SETENTA Y OCHO SOLES CON 80/100</MontoEnLetras>
+  <TipoOperacion>01</TipoOperacion>
+  <CalculoIgv>0.18</CalculoIgv>
+  <CalculoIsc>0</CalculoIsc>
+  <CalculoDetraccion>0</CalculoDetraccion>
+  <MontoPercepcion>0</MontoPercepcion>
+  <MontoDetraccion>0</MontoDetraccion>
+  <MontoAnticipo>0</MontoAnticipo>
+  <DatoAdicionales>
+  </DatoAdicionales>
+  <Relacionados>
+  </Relacionados>
+  <Items>
+    <DetalleDocumento>
+      <Id>1</Id>
+      <Cantidad>1</Cantidad>
+      <UnidadMedida>NIU</UnidadMedida>
+      <Suma>600</Suma>
+      <TotalVenta>600</TotalVenta>
+      <PrecioUnitario>600</PrecioUnitario>
+      <TipoPrecio>01</TipoPrecio>
+      <Impuesto>29.8</Impuesto>
+      <TipoImpuesto>10</TipoImpuesto>
+      <ImpuestoSelectivo>0</ImpuestoSelectivo>
+      <OtroImpuesto>0</OtroImpuesto>
+      <Descripcion>ART0001</Descripcion>
+      <CodigoItem>ART0001</CodigoItem>
+      <PrecioReferencial>600</PrecioReferencial>
+    </DetalleDocumento>
+  </Items>
+</DocumentoElectronico>

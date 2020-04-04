@@ -1,0 +1,18 @@
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.exe.config
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.csprojResolveAssemblyReference.cache
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.csproj.GenerateResource.Cache
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.exe
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.pdb
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.exe
+C:\VisualK\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\bin\Debug\Servicio Estado FE Peru.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.csproj.GenerateResource.Cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\obj\Debug\Servicio Estado FE Peru.pdb

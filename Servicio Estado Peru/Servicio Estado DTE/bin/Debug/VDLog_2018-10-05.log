@@ -1,0 +1,253 @@
+05-10-2018 16:14:20 Inicio
+05-10-2018 16:14:30 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:14:35 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:14:35 Fin
+05-10-2018 16:15:09 Inicio
+05-10-2018 16:15:09 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:15:10 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:15:10 Fin
+05-10-2018 16:15:34 Inicio
+05-10-2018 16:15:34 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:15:34 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:15:34 Fin
+05-10-2018 16:15:55 Inicio
+05-10-2018 16:15:56 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:15:56 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:15:56 Fin
+05-10-2018 16:16:24 Inicio
+05-10-2018 16:16:24 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:16:25 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:16:25 Fin
+05-10-2018 16:19:13 Inicio
+05-10-2018 16:19:17 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:22:22 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:22:22 Fin
+05-10-2018 16:22:44 Inicio
+05-10-2018 16:22:44 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:22:44 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 343
+05-10-2018 16:22:44 Fin
+05-10-2018 16:27:02 Inicio
+05-10-2018 16:27:07 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:58:30 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 16:58:31 Fin
+05-10-2018 16:59:01 Inicio
+05-10-2018 16:59:08 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:59:13 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 16:59:13 Fin
+05-10-2018 16:59:39 Inicio
+05-10-2018 16:59:39 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 16:59:40 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 16:59:40 Fin
+05-10-2018 17:00:15 Inicio
+05-10-2018 17:00:16 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:00:16 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:00:16 Fin
+05-10-2018 17:00:48 Inicio
+05-10-2018 17:00:48 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:00:50 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:00:50 Fin
+05-10-2018 17:01:15 Inicio
+05-10-2018 17:01:15 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:01:15 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:01:15 Fin
+05-10-2018 17:01:47 Inicio
+05-10-2018 17:01:48 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:01:48 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:01:48 Fin
+05-10-2018 17:02:21 Inicio
+05-10-2018 17:02:21 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:02:21 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:02:21 Fin
+05-10-2018 17:02:48 Inicio
+05-10-2018 17:02:48 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:02:49 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:02:49 Fin
+05-10-2018 17:03:22 Inicio
+05-10-2018 17:03:22 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:03:22 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:03:22 Fin
+05-10-2018 17:03:50 Inicio
+05-10-2018 17:03:50 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:03:51 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:03:51 Fin
+05-10-2018 17:04:19 Inicio
+05-10-2018 17:04:19 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:04:21 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:04:21 Fin
+05-10-2018 17:04:57 Inicio
+05-10-2018 17:04:57 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:04:57 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:04:57 Fin
+05-10-2018 17:05:25 Inicio
+05-10-2018 17:05:25 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:05:26 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:05:26 Fin
+05-10-2018 17:05:56 Inicio
+05-10-2018 17:05:57 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:06:00 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:06:00 Fin
+05-10-2018 17:06:32 Inicio
+05-10-2018 17:06:32 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:06:32 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:06:32 Fin
+05-10-2018 17:06:58 Inicio
+05-10-2018 17:06:58 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:07:03 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:07:03 Fin
+05-10-2018 17:07:38 Inicio
+05-10-2018 17:07:39 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:07:39 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:07:39 Fin
+05-10-2018 17:08:10 Inicio
+05-10-2018 17:08:10 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:08:11 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:08:11 Fin
+05-10-2018 17:08:35 Inicio
+05-10-2018 17:08:35 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:08:36 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:08:36 Fin
+05-10-2018 17:09:07 Inicio
+05-10-2018 17:09:07 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:09:16 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:09:16 Fin
+05-10-2018 17:09:46 Inicio
+05-10-2018 17:09:46 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:09:48 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:09:48 Fin
+05-10-2018 17:10:18 Inicio
+05-10-2018 17:10:18 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:10:18 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:10:18 Fin
+05-10-2018 17:10:48 Inicio
+05-10-2018 17:10:49 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:10:49 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:10:49 Fin
+05-10-2018 17:11:20 Inicio
+05-10-2018 17:11:20 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:11:20 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:11:20 Fin
+05-10-2018 17:11:50 Inicio
+05-10-2018 17:11:50 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:11:51 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:11:51 Fin
+05-10-2018 17:12:22 Inicio
+05-10-2018 17:12:22 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:12:23 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:12:23 Fin
+05-10-2018 17:12:53 Inicio
+05-10-2018 17:12:54 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:12:54 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:12:54 Fin
+05-10-2018 17:13:20 Inicio
+05-10-2018 17:13:20 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:13:20 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:13:20 Fin
+05-10-2018 17:13:54 Inicio
+05-10-2018 17:13:55 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:13:55 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:13:55 Fin
+05-10-2018 17:14:27 Inicio
+05-10-2018 17:14:27 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:14:27 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:14:27 Fin
+05-10-2018 17:14:51 Inicio
+05-10-2018 17:14:52 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:14:52 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:14:52 Fin
+05-10-2018 17:15:22 Inicio
+05-10-2018 17:15:22 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:15:25 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:15:25 Fin
+05-10-2018 17:16:02 Inicio
+05-10-2018 17:16:02 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:16:04 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:16:04 Fin
+05-10-2018 17:16:32 Inicio
+05-10-2018 17:16:32 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:16:32 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:16:32 Fin
+05-10-2018 17:16:55 Inicio
+05-10-2018 17:16:56 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:16:56 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:16:56 Fin
+05-10-2018 17:17:26 Inicio
+05-10-2018 17:17:26 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:17:27 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:17:27 Fin
+05-10-2018 17:18:06 Inicio
+05-10-2018 17:18:06 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:18:07 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:18:07 Fin
+05-10-2018 17:18:37 Inicio
+05-10-2018 17:18:38 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:18:38 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:18:38 Fin
+05-10-2018 17:19:02 Inicio
+05-10-2018 17:19:02 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:19:02 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:19:02 Fin
+05-10-2018 17:19:31 Inicio
+05-10-2018 17:19:31 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:19:32 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:19:32 Fin
+05-10-2018 17:20:08 Inicio
+05-10-2018 17:20:09 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:20:11 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:20:11 Fin
+05-10-2018 17:20:38 Inicio
+05-10-2018 17:20:39 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+05-10-2018 17:20:39 Err base ***GENERAL PRUEBAS*** -> documento 01 folio 283 - No se puede realizar enlace en tiempo de ejecución en una referencia NULL., StackTrace    en CallSite.Target(Closure , CallSite , Object )
+   en Servicio_Estado_DTE.Service1.ConsultarOPGetEstado(String UserWS, String PassWS, String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 341
+05-10-2018 17:20:39 Fin

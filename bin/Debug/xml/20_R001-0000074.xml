@@ -1,0 +1,47 @@
+<DocumentoElectronico>
+  <IdDocumento>R001-0000074</IdDocumento>
+  <FechaEmision>2018-11-28</FechaEmision>
+  <Emisor>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>***GENERAL PRUEBAS***</NombreLegal>
+    <NombreComercial>LIMA</NombreComercial>
+    <Ubigeo>150136</Ubigeo>
+    <Direccion>DIRECCION DE LA EMPRESA PRUEBAS 150101</Direccion>
+    <Urbanizacion>-</Urbanizacion>
+    <Departamento>-</Departamento>
+    <Provincia>LIMA</Provincia>
+    <Distrito>LIMA</Distrito>
+  </Emisor>
+  <CamposExtras>
+    <CorreoReceptor>acabello@visuald.cl</CorreoReceptor>
+  </CamposExtras>
+  <Receptor>
+    <NroDocumento>10434319779</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreComercial>FERNANDEZ RIVERA, CRISTHIAN LUKE</NombreComercial>
+    <NombreLegal>FERNANDEZ RIVERA, CRISTHIAN LUKE</NombreLegal>
+  </Receptor>
+  <Moneda>PEN</Moneda>
+  <Obervaciones>
+  </Obervaciones>
+  <RegimenRetencion>01</RegimenRetencion>
+  <TasaRetencion>3</TasaRetencion>
+  <ImporteTotalRetenido>3.19</ImporteTotalRetenido>
+  <ImporteTotalPagado>103.01</ImporteTotalPagado>
+  <DocumentosRelacionados>
+    <NroDocumento>F001-0000082</NroDocumento>
+    <TipoDocumento>01</TipoDocumento>
+    <FechaEmision>2018-11-28</FechaEmision>
+    <ImporteTotal>119.21</ImporteTotal>
+    <MonedaDocumentoRelacionado>PEN</MonedaDocumentoRelacionado>
+    <NumeroPago>1</NumeroPago>
+    <ImporteTotalNeto>103.01</ImporteTotalNeto>
+    <ImporteSinRetencion>116.02</ImporteSinRetencion>
+    <FechaPago>2018-11-28</FechaPago>
+    <ImporteRetencion>3.19</ImporteRetencion>
+    <FechaRetencion>2018-11-28</FechaRetencion>
+    <TipoCambio>1</TipoCambio>
+    <FechaTipoCambio>2018-11-28</FechaTipoCambio>
+  </DocumentosRelacionados>
+</DocumentoElectronico>

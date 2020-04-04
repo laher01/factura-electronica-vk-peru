@@ -1,0 +1,365 @@
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+Z:\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+C:\Visualk\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.dll
+C:\Visualk\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbobsCOM.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.exe
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.exe
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Factura Electronica Peru.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\CrystalDecisions.Shared.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Core.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Main.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\DLLparaXMLPE.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.GlobalVid.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Core.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Dimensions.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOne.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneForm.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.DynamicOneListener.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Main.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MainObjBase.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MenuConfFr.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\Visuald.ReportWindowFr.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOCrystalPreview.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.uEncrypt.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.untLog.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkBaseForm.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\bin\Debug\VisualD.vkFormInterface.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csprojResolveAssemblyReference.cache
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura_Electronica_VK_Peru.Properties.Resources.resources
+C:\Visualk\Proyectos\Factura Electronica VK Peru\obj\x86\Debug\Factura Electronica VK Peru.csproj.GenerateResource.Cache

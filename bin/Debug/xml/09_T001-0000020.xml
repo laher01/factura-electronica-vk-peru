@@ -1,0 +1,63 @@
+<DocumentoElectronico>
+  <IdDocumento>T001-0000020</IdDocumento>
+  <FechaEmision>2018-03-28</FechaEmision>
+  <TipoDocumento>09</TipoDocumento>
+  <Glosa>
+  </Glosa>
+  <CodigoMotivoTraslado>01</CodigoMotivoTraslado>
+  <DescripcionMotivo>VENTA</DescripcionMotivo>
+  <Transbordo>0</Transbordo>
+  <PesoBrutoTotal>0</PesoBrutoTotal>
+  <NroPallets>0</NroPallets>
+  <ModalidadTraslado>01</ModalidadTraslado>
+  <FechaInicioTraslado>2018-03-28</FechaInicioTraslado>
+  <RazonSocialTransportista>
+  </RazonSocialTransportista>
+  <RucTransportista>
+  </RucTransportista>
+  <NroPlacaVehiculo>RGE-557</NroPlacaVehiculo>
+  <NroDocumentoConductor>41153899</NroDocumentoConductor>
+  <DireccionPartida>
+    <DireccionCompleta>DIRECCION DE LA EMPRESA PRUEBAS</DireccionCompleta>
+    <Ubigeo>150101</Ubigeo>
+  </DireccionPartida>
+  <DireccionLlegada>
+    <DireccionCompleta>FD, LA UNION, TARMA</DireccionCompleta>
+    <Ubigeo>150101</Ubigeo>
+  </DireccionLlegada>
+  <NumeroContenedor>
+  </NumeroContenedor>
+  <CodigoPuerto>
+  </CodigoPuerto>
+  <Remitente>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <Direccion>DIRECCION DE LA EMPRESA PRUEBAS</Direccion>
+    <Urbanizacion>-</Urbanizacion>
+    <Departamento>-</Departamento>
+    <Provincia>LIMA</Provincia>
+    <Distrito>LIMA</Distrito>
+    <NombreComercial>LIMA</NombreComercial>
+    <NombreLegal>***GENERAL PRUEBAS***</NombreLegal>
+    <Ubigeo>150101</Ubigeo>
+  </Remitente>
+  <Destinatario>
+    <NroDocumento>10434319779</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>FERNANDEZ RIVERA, CRISTHIAN LUKE</NombreLegal>
+    <NombreComercial>
+    </NombreComercial>
+  </Destinatario>
+  <CamposExtras>
+    <CorreoReceptor>
+    </CorreoReceptor>
+  </CamposExtras>
+  <BienesaTransportar>
+    <Cantidad>1</Cantidad>
+    <CodigoItem>ART0001</CodigoItem>
+    <Correlativo>0000020</Correlativo>
+    <Descripcion>ARTICULO 1</Descripcion>
+    <LineaReferencia>1</LineaReferencia>
+    <UnidadMedida>NIU</UnidadMedida>
+  </BienesaTransportar>
+</DocumentoElectronico>

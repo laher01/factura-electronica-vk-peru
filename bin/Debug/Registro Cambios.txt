@@ -1,0 +1,37 @@
+Version 9.03.001
+	-> Se habilita FE Peru con EasyDoc, puntos a considerar para la implentacion
+		-> Moneda, en las definiciones de Moneda columna Codigo Internacional SOL es PEN, USD es USD, se basa en ISO 4217 Currency Codes
+		-> Tener ingresado los datos en Configuracon de Impuestos (Gestion -> Definiciones -> Facturacion Electronica -> Configuracion de Impuestos), asi en xml se incorpora tag Gravado, Inafectas, Exoneradas, Gratuitas
+			Impuesto SAP	Codigo Impto Sunat
+			IGV				10
+			IGV_EX			20
+		-> Tener ingresado los datos en Tipos de Notas(Gestion -> Definiciones -> Facturacion Electronica -> Tipos de Notas), se usa para Nota de Credito y Nota de Debito
+			Codigo	descripcion							Codigo Sunat
+			01		Anulacion de Operacion				01
+			02		Anulacion por error de RUC			02
+			03		Correcion por error en la dsc		03
+			04		Descuento Global					04
+			05		Descuento por Item					05
+			06		Descuento Total						06
+			07		Devolucion por Item					07
+			08		Bonificacion						08
+			09		Desminucion en el valor				09
+			10		Interes por Mora para Nota Debito	01
+			11		Aumento de Valor para Nota Debito	02
+			12		Penalidades para Nota Debito		03
+		-> Los Documentos Factura, Nota de Debito y Nota de Credito debe tener RUC ingresado en Folder Finanzas en el documento
+		-> Tambien tener en cuenta que en el Maestro Socio de Negocio debe tener ingresado los campos BPP: Tipo de Documento y BPP: Tipo de persona
+	-> Se habilita la validacion de RUC al crear Documento Electronico
+	-> Se agrega campo en los formularios para mostrar el estado del documento en el portal
+Version 9.03.002
+	-> Se quita validacion de RUC en la creacion de la Factura, quedando asi que el addon no valida RUC
+Version 9.03.003
+	-> Se integra al addon la Guia Remision, tanto para Entrega Venta, Devolucion de compras y Transferencia Stock
+Version 9.03.004
+	-> En los parametros del addon se agrega opcion para mostrar el xml que se esta enviando al portal electronico en el VD.Log
+	-> En los parametros del addon en el campo URL EasyDot debe ir la direccion del portal que es http://portalPE.easydoc.cl/
+Version 9.03.005
+	-> Se incorpora el formulario Factura de Exportacion para documentos electronicos 01 (Factura Electronica)
+Version 9.03.006
+	-> El addon no reenviara un documento si se encuentra en estado EC(enviado correctamente), RR (aceptado por sunat), RZ (rechazado), DB (dado de baja) en la tabla VID_FELOG
+	

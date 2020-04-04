@@ -1,0 +1,20 @@
+C:\Visualk\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.dll
+C:\Visualk\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.pdb
+C:\Visualk\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.csprojResolveAssemblyReference.cache
+C:\Visualk\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.dll
+C:\Visualk\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\Debug\DLLparaXMLPE.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\Debug\DLLparaXMLPE.pdb

@@ -1,0 +1,30 @@
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.exe.config
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Form1.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Properties.Resources.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Inicio.resources
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.exe.config
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.exe
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.pdb
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Form1.resources
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Inicio.resources
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.exe
+C:\VisualK\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Form1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Inicio.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Datos\Datos\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache

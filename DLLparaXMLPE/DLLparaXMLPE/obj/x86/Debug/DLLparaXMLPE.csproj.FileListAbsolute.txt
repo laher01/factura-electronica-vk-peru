@@ -1,0 +1,4 @@
+C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\x86\Debug\DLLparaXMLPE.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\x86\Debug\DLLparaXMLPE.pdb
+C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.dll
+C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.pdb

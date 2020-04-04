@@ -1,0 +1,65 @@
+<DocumentoElectronico>
+  <TipoDocumento>01</TipoDocumento>
+  <Emisor>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>VK Peru Estandar</NombreLegal>
+    <NombreComercial>LIMA</NombreComercial>
+    <Direccion>Direccion empresa prueba 222</Direccion>
+    <Urbanizacion>-</Urbanizacion>
+    <Departamento>-</Departamento>
+    <Provincia>LIMA</Provincia>
+    <Distrito>LIMA</Distrito>
+  </Emisor>
+  <CamposExtras>
+    <CorreoReceptor>
+    </CorreoReceptor>
+  </CamposExtras>
+  <Receptor>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>Andres</NombreLegal>
+  </Receptor>
+  <IdDocumento>F001-000080</IdDocumento>
+  <FechaEmision>2018-01-09</FechaEmision>
+  <Moneda>PEN</Moneda>
+  <Gravadas>8.22</Gravadas>
+  <Gratuitas>0</Gratuitas>
+  <Inafectas>0</Inafectas>
+  <Exoneradas>0</Exoneradas>
+  <DescuentoGlobal>0</DescuentoGlobal>
+  <TotalVenta>53.89</TotalVenta>
+  <TotalIgv>8.22</TotalIgv>
+  <TotalIsc>0</TotalIsc>
+  <TotalOtrosTributos>0</TotalOtrosTributos>
+  <MontoEnLetras>SON CINCUENTA Y TRES SOLES CON 89/100</MontoEnLetras>
+  <TipoOperacion>01</TipoOperacion>
+  <CalculoIgv>0.18</CalculoIgv>
+  <CalculoIsc>0</CalculoIsc>
+  <CalculoDetraccion>0</CalculoDetraccion>
+  <MontoPercepcion>0</MontoPercepcion>
+  <MontoDetraccion>0</MontoDetraccion>
+  <MontoAnticipo>0</MontoAnticipo>
+  <DatoAdicionales>
+  </DatoAdicionales>
+  <Relacionados>
+  </Relacionados>
+  <Items>
+    <DetalleDocumento>
+      <Id>1</Id>
+      <Cantidad>1</Cantidad>
+      <UnidadMedida>NIU</UnidadMedida>
+      <Suma>45.67</Suma>
+      <TotalVenta>45.67</TotalVenta>
+      <PrecioUnitario>45.67</PrecioUnitario>
+      <TipoPrecio>01</TipoPrecio>
+      <Impuesto>18</Impuesto>
+      <TipoImpuesto>10</TipoImpuesto>
+      <ImpuestoSelectivo>0</ImpuestoSelectivo>
+      <OtroImpuesto>0</OtroImpuesto>
+      <Descripcion>prueba fac</Descripcion>
+      <CodigoItem>Servicio</CodigoItem>
+      <PrecioReferencial>45.67</PrecioReferencial>
+    </DetalleDocumento>
+  </Items>
+</DocumentoElectronico>

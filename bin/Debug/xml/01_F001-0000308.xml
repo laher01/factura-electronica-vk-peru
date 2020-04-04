@@ -1,0 +1,64 @@
+<DocumentoElectronico>
+  <TipoDocumento>01</TipoDocumento>
+  <Emisor>
+    <NroDocumento>20100070970</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>***GENERAL PRUEBAS***</NombreLegal>
+    <NombreComercial>LIMA</NombreComercial>
+    <Direccion>DIRECCION DE LA EMPRESA PRUEBAS 150101</Direccion>
+    <Urbanizacion>-</Urbanizacion>
+    <Departamento>-</Departamento>
+    <Provincia>LIMA</Provincia>
+    <Distrito>LIMA</Distrito>
+  </Emisor>
+  <CamposExtras>
+    <CorreoReceptor>
+    </CorreoReceptor>
+  </CamposExtras>
+  <Receptor>
+    <NroDocumento>10434319779</NroDocumento>
+    <TipoDocumento>6</TipoDocumento>
+    <NombreLegal>FERNANDEZ RIVERA, CRISTHIAN LUKE</NombreLegal>
+  </Receptor>
+  <IdDocumento>F001-0000308</IdDocumento>
+  <FechaEmision>2018-11-14</FechaEmision>
+  <Moneda>PEN</Moneda>
+  <Gravadas>57.6</Gravadas>
+  <Gratuitas>0</Gratuitas>
+  <Inafectas>0</Inafectas>
+  <Exoneradas>0</Exoneradas>
+  <DescuentoGlobal>0</DescuentoGlobal>
+  <TotalVenta>377.6</TotalVenta>
+  <TotalIgv>57.6</TotalIgv>
+  <TotalIsc>0</TotalIsc>
+  <TotalOtrosTributos>0</TotalOtrosTributos>
+  <MontoEnLetras>SON TRESCIENTOS SETENTA Y SIETE SOLES CON 60/100</MontoEnLetras>
+  <TipoOperacion>01</TipoOperacion>
+  <CalculoIgv>0.18</CalculoIgv>
+  <CalculoIsc>0</CalculoIsc>
+  <CalculoDetraccion>0</CalculoDetraccion>
+  <MontoPercepcion>0</MontoPercepcion>
+  <MontoDetraccion>0</MontoDetraccion>
+  <MontoAnticipo>0</MontoAnticipo>
+  <DatoAdicionales>
+  </DatoAdicionales>
+  <Relacionados>Relacionados</Relacionados>
+  <Items>
+    <DetalleDocumento>
+      <Id>1</Id>
+      <Cantidad>1</Cantidad>
+      <UnidadMedida>NIU</UnidadMedida>
+      <Suma>320</Suma>
+      <TotalVenta>320</TotalVenta>
+      <PrecioUnitario>320</PrecioUnitario>
+      <TipoPrecio>01</TipoPrecio>
+      <Impuesto>18</Impuesto>
+      <TipoImpuesto>10</TipoImpuesto>
+      <ImpuestoSelectivo>0</ImpuestoSelectivo>
+      <OtroImpuesto>0</OtroImpuesto>
+      <Descripcion>678384</Descripcion>
+      <CodigoItem>678384</CodigoItem>
+      <PrecioReferencial>320</PrecioReferencial>
+    </DetalleDocumento>
+  </Items>
+</DocumentoElectronico>

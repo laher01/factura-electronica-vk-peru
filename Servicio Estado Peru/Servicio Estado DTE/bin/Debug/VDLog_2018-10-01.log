@@ -1,0 +1,113 @@
+01-10-2018 19:10:42 Inicio
+01-10-2018 19:10:47 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:10:47 Fin
+01-10-2018 19:11:29 Inicio
+01-10-2018 19:11:34 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:11:34 Fin
+01-10-2018 19:12:04 Inicio
+01-10-2018 19:12:08 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:12:08 Fin
+01-10-2018 19:20:21 Inicio
+01-10-2018 19:20:23 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:20:23 Fin
+01-10-2018 19:20:58 DatosConfig: Referencia a objeto no establecida como instancia de un objeto. ** Trace:    en Servicio_Estado_DTE.Functions.TFunctions.DatosConfig(String Valor0, String Valor, XmlDocument xDoc) en c:\VisualK\Servicio Estado Peru\Servicio Estado DTE\Functions.cs:línea 63
+01-10-2018 19:20:58 Inicio
+01-10-2018 19:21:00 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:21:00 Fin
+01-10-2018 19:26:16 DatosConfig: Referencia a objeto no establecida como instancia de un objeto. ** Trace:    en Servicio_Estado_DTE.Functions.TFunctions.DatosConfig(String Valor0, String Valor, XmlDocument xDoc) en c:\VisualK\Servicio Estado Peru\Servicio Estado DTE\Functions.cs:línea 63
+01-10-2018 19:26:16 Inicio
+01-10-2018 19:26:19 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:26:19 Fin
+01-10-2018 19:29:31 DatosConfig: Referencia a objeto no establecida como instancia de un objeto. ** Trace:    en Servicio_Estado_DTE.Functions.TFunctions.DatosConfig(String Valor0, String Valor, XmlDocument xDoc) en c:\VisualK\Servicio Estado Peru\Servicio Estado DTE\Functions.cs:línea 63
+01-10-2018 19:29:31 Inicio
+01-10-2018 19:29:33 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:29:33 Fin
+01-10-2018 19:29:59 DatosConfig: Referencia a objeto no establecida como instancia de un objeto. ** Trace:    en Servicio_Estado_DTE.Functions.TFunctions.DatosConfig(String Valor0, String Valor, XmlDocument xDoc) en c:\VisualK\Servicio Estado Peru\Servicio Estado DTE\Functions.cs:línea 63
+01-10-2018 19:30:00 Inicio
+01-10-2018 19:30:02 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:30:02 Fin
+01-10-2018 19:36:42 DatosConfig: Referencia a objeto no establecida como instancia de un objeto. ** Trace:    en Servicio_Estado_DTE.Functions.TFunctions.DatosConfig(String Valor0, String Valor, XmlDocument xDoc) en c:\VisualK\Servicio Estado Peru\Servicio Estado DTE\Functions.cs:línea 63
+01-10-2018 19:36:42 Inicio
+01-10-2018 19:36:44 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:36:44 Fin
+01-10-2018 19:37:33 Inicio
+01-10-2018 19:37:36 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:37:36 Fin
+01-10-2018 19:39:44 Inicio
+01-10-2018 19:42:52 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:42:52 Fin
+01-10-2018 19:43:10 Inicio
+01-10-2018 19:43:12 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:43:12 Fin
+01-10-2018 19:43:36 Inicio
+01-10-2018 19:43:38 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:43:38 Fin
+01-10-2018 19:44:11 Inicio
+01-10-2018 19:44:14 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:44:14 Fin
+01-10-2018 19:44:57 Inicio
+01-10-2018 19:45:01 Error de conexión base SAP,  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+01-10-2018 19:45:01 Fin
+01-10-2018 19:46:10 Inicio
+01-10-2018 19:46:16 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:46:16 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:46:16 Fin
+01-10-2018 19:46:37 Inicio
+01-10-2018 19:46:37 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:46:37 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:46:37 Fin
+01-10-2018 19:47:03 Inicio
+01-10-2018 19:47:03 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:47:03 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:47:03 Fin
+01-10-2018 19:47:38 Inicio
+01-10-2018 19:47:39 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:47:39 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:47:39 Fin
+01-10-2018 19:48:23 Inicio
+01-10-2018 19:48:23 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:48:23 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:48:23 Fin
+01-10-2018 19:48:59 Inicio
+01-10-2018 19:49:00 Conectado a SAP -> Base Datos GENERAL_PRUEBAS
+01-10-2018 19:49:00 Error foreach busca bases: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_UserWSCL'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'U_PassWSCL'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.tiempo_elapsed(Object sender, EventArgs e) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK Peru\Servicio Estado Peru\Servicio Estado DTE\Service1.cs:línea 172
+01-10-2018 19:49:00 Fin
