@@ -2,3 +2,8 @@ C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\x
 C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\bin\x86\Debug\DLLparaXMLPE.pdb
 C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.dll
 C:\Visualk\Proyectos\Factura Electronica VK Peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.pdb
+C:\VisualK\factura-electronica-vk-peru\DLLparaXMLPE\DLLparaXMLPE\bin\x86\Debug\DLLparaXMLPE.dll
+C:\VisualK\factura-electronica-vk-peru\DLLparaXMLPE\DLLparaXMLPE\bin\x86\Debug\DLLparaXMLPE.pdb
+C:\VisualK\factura-electronica-vk-peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.csprojResolveAssemblyReference.cache
+C:\VisualK\factura-electronica-vk-peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.dll
+C:\VisualK\factura-electronica-vk-peru\DLLparaXMLPE\DLLparaXMLPE\obj\x86\Debug\DLLparaXMLPE.pdb

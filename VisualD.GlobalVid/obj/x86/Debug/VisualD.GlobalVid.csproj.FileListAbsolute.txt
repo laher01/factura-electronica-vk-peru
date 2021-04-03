@@ -300,3 +300,25 @@ C:\Visualk\Proyectos\Factura Electronica VK Peru\VisualD.GlobalVid\bin\Debug\Vis
 C:\Visualk\Proyectos\Factura Electronica VK Peru\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
 C:\Visualk\Proyectos\Factura Electronica VK Peru\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
 C:\Visualk\Proyectos\Factura Electronica VK Peru\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\VisualK\factura-electronica-vk-peru\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
